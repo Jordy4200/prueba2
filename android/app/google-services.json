@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "283447622164",
+    "firebase_url": "https://app-web2-12a80-default-rtdb.firebaseio.com",
+    "project_id": "app-web2-12a80",
+    "storage_bucket": "app-web2-12a80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283447622164:android:13b40078ca4fe5c76c4501",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283447622164-moe8jd8vpac1bjfk0vvm6bhdtoepgd15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHLxLjd12UFDFVMOD2VKPzgo60m_eNsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283447622164-moe8jd8vpac1bjfk0vvm6bhdtoepgd15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
